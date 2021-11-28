@@ -1,4 +1,15 @@
 # gov_mkt_carbon_nlp
+
+## raw data
+raw data is the original data collected from the website
+30.4w+ records of China stock market (investor Q&A). 
+
+## carbon data
+carbon includes the data mentioned the key words of carbon emission.
+undealt
+7.5w+data of China stock market (investor Q&A).
+
+## clean zip
 7.5w+data of China stock market (investor Q&A).
 All data about carbon emission reduction. 
 Text record cleaned as only emission and environment Q&A reserved.
